@@ -1,7 +1,7 @@
 # GraphQL demo - list repositories
 
 * This application is build with Ruby on Rails Framework.
-* It shows list of repositories in perticular organisation.
+* It shows list of repositories in Google organisation. 
 * Analyses all the repositories and show the most used and least used languages
 * Export to CSV feature 
 
@@ -11,5 +11,10 @@
 
 * ##### live heroku link: https://desolate-eyrie-67600.herokuapp.com/repositories
 
-* reference : https://github.com/github/github-graphql-rails-example
+* limitations: test cases not written
+
+#####future scope
+* provide an input on the UI so user can input organisation and get for the perticular organisation
+* Improve code quality 
+
 
