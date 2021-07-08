@@ -5,3 +5,4 @@ gem "graphql", "1.2.2"
 gem "graphql-client", "0.2.3"
 gem 'byebug'
 gem "pry"
+gem 'sendgrid-ruby', '~> 1.1.6'
